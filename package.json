@@ -1,0 +1,10 @@
+{
+  "name": "YarnWorkspacesTest",
+  "version": "1.0.0",
+  "description": "Yarn Workspaces Test",
+  "main": "index.js",
+  "repository": "https://github.com/kbaynes/YarnWorkspacesTest.git",
+  "author": "kbaynes",
+  "license": "MIT",
+  "private": false
+}
