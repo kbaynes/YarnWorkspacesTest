@@ -7,5 +7,12 @@
   "author": "kbaynes",
   "license": "MIT",
   "private": true,
-  "workspaces": ["workspace-e","workspace-mb","workspace-c"]
+  "workspaces": [
+    "workspace-e",
+    "workspace-mb",
+    "workspace-c"
+  ],
+  "devDependencies": {
+    "@angular/cli": "^1.7.4"
+  }
 }
