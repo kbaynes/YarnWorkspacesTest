@@ -1,8 +1,11 @@
 {
-  "name":"workspace-e",
-  "version":"1.0.0",
+  "name": "workspace-e",
+  "version": "1.0.0",
   "dependencies": {
-    "cross-env":"5.0.5",
-    "workspace-c":"1.0.0"
+    "cross-env": "5.0.5",
+    "workspace-c": "1.0.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.4"
   }
 }

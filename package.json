@@ -12,7 +12,5 @@
     "workspace-mb",
     "workspace-c"
   ],
-  "devDependencies": {
-    "@angular/cli": "^1.7.4"
-  }
+  "devDependencies": {}
 }

@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "cross-env": "5.0.5"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.4"
   }
 }
